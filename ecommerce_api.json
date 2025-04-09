@@ -1,0 +1,172 @@
+[
+    {
+         "id":"1",
+         "name":"ipone12",
+         "price":120000,
+         "company":"apple",
+         "color":["#E7ECEA" , "#0C0D0D" , "#D91D1C"],
+         "image":"https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-12-Pro/Pacific-Blue/Apple-iPhone-12-Pro-Pacific-Blue-frontimage.png",
+         "description":"this is best ipone12 phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+         "category":"mobile"
+    },
+    {
+        "id":"2",
+        "name":"samsung galexy s24 ultra",
+        "price":"1350000",
+        "company":"samsung",
+        "color":["#161213" , "#D5A742" , "#646C6D"],
+        "image":"https://www.superplanshet.ru/images/Samsung-Galaxy-S23_2255417.jpg",
+        "description":"this is best samsung phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+        "category":"mobile",
+        "featured":true
+   },
+
+   {
+    "id":"3",
+    "name":"vivo x200 pro 5G",
+    "price":94999,
+    "company":"vivo",
+    "color":[ "#FE9900" , "#825F28"],
+    "image":"https://th.bing.com/th/id/OIP.winKRlmDgZmW7VaWrb2r6wHaFl?rs=1&pid=ImgDetMain",
+    "description":" this is best vivo phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"mobile"
+},
+
+{
+    "id":"4",
+    "name":"redmi xiaomi 15 ultra silver 5G",
+    "price":109999,
+    "company":"redmi",
+    "color":["#7DDA58" , "#DFC57B" , "#E2EAF4" , "#EFC3CA"],
+    "image":"https://priceinall.com/wp-content/uploads/2024/02/Xiaomi-14-Ultra-White-Color.jpg",
+    "description":"this is best redmi phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"mobile"
+},
+
+{
+    "id":"5",
+    "name":"oppo find x8 5G",
+    "price":6000,
+    "company":"oppo",
+    "color":["#98F5F9" , "#060270" , "#000000"],
+    "image":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1732266472/Croma%20Assets/Communication/Mobiles/Images/312048_0_jxisxi.png",
+    "description":"this is best oppo phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"mobile"
+},
+
+
+{
+    "id":"6",
+    "name":"Apple 2024 Mackbook pro",
+    "price":191990,
+    "company":"apple",
+    "color":["#060270" , "#98F5F9"],
+    "image":"https://staticg.sportskeeda.com/editor/2022/08/5c783-16611853470082-1920.jpg",
+    "description":"this is best apple phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"laptop",
+    "featured":true
+},
+{
+    "id":"7",
+    "name":"samsung galaxy book5",
+    "price":6000,
+    "company":"samsung",
+    "color":["#98F5F9" , "#060270" , "#FE9900"],
+    "image":"https://www.drwindows.de/news/wp-content/uploads/2021/06/galaxy_book_go_3-scaled.jpg",
+    "description":"this is best samsung phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"laptop"
+},
+{
+    "id":"8",
+    "name":"asus vivobooks 14",
+    "price":104990,
+    "company":"vivo",
+    "color":["#FE9900" , "#98F5F9" , "#825F28"],
+    "image":"https://th.bing.com/th/id/OIP.eKKWU2pk2hMqj3p4vgoF3wHaFj?rs=1&pid=ImgDetMain",
+    "description":"this is best asus phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"laptop"
+},
+{
+    "id":"9",
+    "name":"mi notebook ultra",
+    "price":56990,
+    "company":"redmi",
+    "color":["#825F28" , "#DFC57B" , "#FE9900"],
+    "image":"https://beebom.com/wp-content/uploads/2021/08/mi-Notebook-Ultra-new.jpg",
+    "description":"this is best mi notebook phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"laptop"
+},
+{
+    "id":"10",
+    "name":"lenovo v14",
+    "price":39490,
+    "company":"oppo",
+    "color":["#FE9900" , "#DFC57B" , "#825F28"],
+    "image":"lenovo v14",
+    "description":"this is best lenovo phone for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"laptop",
+    "featured":true
+},
+{
+    "id":"11",
+    "name":"rolex",
+    "price":100000,
+    "company":"watch",
+    "color":["#98F5F9" , "#000000" , "#98F5F9"],
+    "image":"https://th.bing.com/th/id/OIP.oP9PGLKT_xGkbQ1Tn1UorgHaE8?rs=1&pid=ImgDetMain",
+    "description":"this is best rolex watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch",
+    "featured":true
+},
+{
+    "id":"12",
+    "name":"patek",
+    "price":78000,
+    "company":"watch",
+    "color":["#000000" , "#98F5F9" , "#98F5F9"],
+    "image":"https://th.bing.com/th/id/OIP.Uz4SqI7_-Icf6Ahz35XBJgAAAA?rs=1&pid=ImgDetMain",
+    "description":"this is best patek watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch"
+},
+{
+    "id":"13",
+    "name":"philippe",
+    "price":54000,
+    "company":"watch",
+    "color":["#98F5F9" , "#98F5F9" , "#000000"],
+    "image":"https://timeandtidewatches.com/wp-content/uploads/2015/02/Patek-annual-calendar-chrono.jpg",
+    "description":"this is best philippe watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch"
+},
+{
+    "id":"14",
+    "name":"audemars piguet",
+    "price":93000,
+    "company":"watch",
+    "color":["#98F5F9" , "#000000" , "#98F5F9"],
+    "image":"https://www.bexsonn.com/wp-content/uploads/2017/02/RO_26331IP-OO-1220IP-01_1_closeup_Original_001.jpg",
+    "description":"this is best audemars piguet watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch"
+},
+{
+    "id":"15",
+    "name":"omega",
+    "price":50000,
+    "company":"watch",
+    "color":["#000000" , "#98F5F9" , "#98F5F9"],
+    "image":"https://monochrome-watches.com/wp-content/uploads/2019/10/Omega-Constellation-history-in-depth-1.jpg",
+    "description":"this is best omega watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch"
+},
+{
+    
+    "id":"15",
+    "name":"vacheron",
+    "price":20000,
+    "color":["#98F5F9" , "#98F5F9" , "#000000"],
+    "image":"https://th.bing.com/th/id/OIP.b9_wUWyV1UcD4Zn2wZmrHQHaFf?w=1024&h=759&rs=1&pid=ImgDetMain",
+    "description":"this is best vacheron watch for you , may be you will like it , but you will not buy it , because it is very expensive , what is good for you",
+    "category":"watch",
+    "featured":true
+}
+]
